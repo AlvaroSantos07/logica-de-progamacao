@@ -9,7 +9,7 @@ console.log(numeroUm)
 //Console.log tem a função de printar a codificação, informando o resultado!
 
 numeroUm = numeroDois;
-console.log(numeroUm)
+console.log(numeroUm);
 
 numeroUm = numeroTres;
 console.log(numeroUm);
